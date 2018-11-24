@@ -1,0 +1,115 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/FirstClass/src/VipStatus.java" timestamp="1543049467480">
+        <mark key="[" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/course187/section538/lesson12762/step47721/src/Main.java" timestamp="1512147185508">
+        <mark key="[" line="5" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/HelloWorld.java" timestamp="1511459397071">
+        <mark key="'" line="6" column="32" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/FirstClass/src/Color.java" timestamp="1543049173763">
+        <mark key="[" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/FirstClass/src/Consumer.java" timestamp="1543052837684">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Onecl/src/Onecl.java" timestamp="1512069052198">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="44" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/FirstClass/src/ColorSkin.java" timestamp="1543050190272">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1512065469536">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/FirstClass/src/SClass.java" timestamp="1543050668709">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="6" column="32" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/HelloWorld.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldElkKCkgewo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>d</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gY29sb3JTa2luK3ZpcFN0YXR1cysKICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
+        <text>public String getColor(){
+    return
+}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhM1tpXSkgOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhM1tpXSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhM1tpXSkgOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>d</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwyXD4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwyXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwyXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDwyXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
