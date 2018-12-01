@@ -18,9 +18,6 @@
       <file name="$USER_HOME$/IdeaProjects/FirstClass/src/Color.java" timestamp="1543049173763">
         <mark key="[" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/2toStringTranslate/src/Translator2to10.java" timestamp="1543664844857">
-        <mark key="[" line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/FirstClass/src/Consumer.java" timestamp="1543664478435">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="17" column="38" />
@@ -53,7 +50,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldElkKCkgewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>import jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gY29sb3JTa2luK3ZpcFN0YXR1cysKICAgIH0=</text>
@@ -79,7 +76,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>import jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
